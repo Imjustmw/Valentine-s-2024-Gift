@@ -1,0 +1,16 @@
+random\Main\Dialogue.class
+random\GUI\Transition.class
+random\Entity\Player.class
+random\Entity\NPC.class
+random\Tile\Tile.class
+random\Main\GamePanel.class
+random\Main\KeyHandler.class
+random\Entity\Interaction.class
+random\Main\Dialogue$1.class
+random\Main\CollisionChecker.class
+random\Tile\TileManager.class
+random\GUI\Menu.class
+random\Main\Main.class
+random\Entity\Entity.class
+random\GUI\Transition$2.class
+random\GUI\Transition$1.class
